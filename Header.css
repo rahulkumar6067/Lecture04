@@ -1,0 +1,57 @@
+body {
+  font-family: "Poppins";
+}
+
+header {
+  height: 75vh;
+  background-image: url("https://img.freepik.com/free-vector/gradient-abstract-geometric-background_23-2149120339.jpg?w=1380&t=st=1694416004~exp=1694416604~hmac=c24226a2b1f7866c3bcb40af7472f5342aa257bf93e3d31063af1de83434cfa6");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+.header-section {
+  height: 100vh;
+}
+
+.container {
+  width: 30%;
+  margin: auto;
+  padding: 12px;
+  height: 100%;
+  align-items: center;
+  color: black;
+}
+.header-quote {
+  padding: 5px;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 8px;
+  width: 466px;
+}
+.header-title {
+  font-size: 20vh;
+  text-align: center;
+  padding: 15px;
+  text-transform: uppercase;
+  letter-spacing: 15px;
+  font-weight: bold;
+  margin: -19px -422px;
+  line-height: 130px;
+}
+.subtitle {
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 2px;
+  line-height: 45px;
+  width: 500px;
+}
+.btn {
+  text-align: center;
+  color: white;
+  padding: 8px;
+  margin: 2px;
+  background-color: black;
+  width: 130px;
+}
